@@ -3,6 +3,8 @@ layout: default
 title: Stefano Ninfole
 ---
 
+{{ site.description }}
+
 ## Research
 I am part of the research project [Developing value chains for CO2 storage and blue hydrogen in Europe](https://www.frisch.uio.no/english/projects/?view=project&pid=3174).
 
