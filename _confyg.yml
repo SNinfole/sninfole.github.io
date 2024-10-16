@@ -1,6 +1,5 @@
+theme: jekyll-theme-minimal
 title: "Stefano Ninfole's Website"
-author:
-  name: "Stefano Ninfole"
-  email: "stefano.ninfole@nmbu.no"
-description: "PhD in Climate and Energy Economics"
-theme: jekyll-theme-cayman
+description: "PhD in Economics"
+name: "Stefano Ninfole"
+email: "stefano.ninfole@nmbu.no"
