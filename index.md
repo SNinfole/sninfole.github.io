@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stefano Ninfole's Website
+title: Stefano Ninfole
 ---
 
 ## Research
