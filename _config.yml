@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 title: "Stefano Ninfole"
-description: "PhD in Economics"
+description: |-
+  Hello! 👋 I am Stefano, a PhD researcher in Economics at NMBU, specializing in
+  🌍 Carbon storage market analysis,
+  ⚡ Direct Air Capture (DAC) and electricity market dynamics,
+  📊 Econometrics of emissions and emission forecasting.
+  I have a background in Economics and Finance from Università del Salento, where I completed my Master’s thesis in advanced econometrics. I am based in Oslo, but I am currently staying in Berlin as a visiting PhD researcher at DIW.
+  When I am not in the office, I love playing music and discovering new genres and artists. I am also intrigued by the intersections between modern economic reasoning and philosophical and ethical considerations.
+  If you want to get in touch, just send me an email!
 name: "Stefano Ninfole"
 email: "stefano.ninfole@nmbu.no"
