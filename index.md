@@ -3,6 +3,7 @@ layout: default
 title: Stefano Ninfole
 ---
 
+![](/BUONAI_web copia.jpg)
 
 # Research
 
