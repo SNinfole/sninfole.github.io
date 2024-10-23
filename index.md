@@ -32,3 +32,11 @@ Teaching assistant in:
 
 ## CV
 [Download My CV](Stefano_Ninfole_Resume.pdf){:target="_blank" download="Stefano_Ninfole_Resume.pdf"}
+
+# Contacts
+
+Feel free to reach out via email or connect with me on LinkedIn:
+
+- Email: [stefano.ninfole@nmbu.no](mailto:stefano.ninfole@nmbu.no)
+- LinkedIn: [Stefano Ninfole](https://www.linkedin.com/in/stefanoninfole/)
+
