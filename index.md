@@ -30,4 +30,4 @@ Teaching assistant in:
 
 
 ## CV
-[Download My CV](Stefano_Ninfole_Resume.pdf)
+[Download My CV](Stefano_Ninfole_Resume.pdf){:target="_blank" download="Stefano_Ninfole_Resume.pdf"}
