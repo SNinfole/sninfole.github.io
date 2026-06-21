@@ -1,0 +1,12 @@
+# Jekyll build output (GitHub Pages rebuilds this)
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Local tooling / editor
+.claude/
+.DS_Store
+
+# Ruby
+vendor/
+.bundle/
