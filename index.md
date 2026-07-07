@@ -3,10 +3,14 @@ layout: default
 title: Stefano Ninfole
 ---
 
-<section id="research" class="card" markdown="1">
-# Research
+<section id="research-impact" class="card" markdown="1">
+# Research Impact
 
-I am part of the research project [Developing value chains for CO2 storage and blue hydrogen in Europe](https://www.frisch.uio.no/english/projects/?view=project&pid=3174).
+The IPCC and the IEA have shown that reaching climate targets will require capturing and storing CO2, especially in industries where CO2 emissions are difficult or impossible to eliminate, the so-called hard-to-abate sectors. Yet investment in carbon capture and storage (CCS) technology has moved far more slowly than those targets require. My co-authors and I ask why — and what it would take to change that.
+
+In [Competition for Carbon Storage](https://www.sciencedirect.com/science/article/abs/pii/S0095069625000129), published in the *Journal of Environmental Economics and Management*, we offer an explanation for why CCS investment has been so slow: coordination and uncertainty. Polluting plants do not know whether a market for storage will be realized, so they hesitate between investing in capture and simply paying for the CO2 they emit. Storage operators, in turn, do not know whether emitters will invest in capture, or to which storage site they will deliver their CO2. The paper disentangles this mechanism and shows market outcomes, profits, investments and costs for the CO2 storage market under different carbon prices. This work is part of a [research project on developing value chains for CO2 storage and blue hydrogen in Europe](https://nva.sikt.no/projects/2718275), where understanding these links in the chain is the central task.
+
+What determines whether decarbonization technologies actually reach the world is part of my broader research agenda: how large-scale, energy-intensive carbon dioxide removal (CDR) technologies would reshape electricity markets, how the cost of residual emissions steers the abatement choices of steel, cement and chemicals, and what three decades of data reveal about the drivers of Norway's falling CO2 emissions.
 </section>
 
 <section id="publications" class="card" markdown="1">
