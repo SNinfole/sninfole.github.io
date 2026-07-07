@@ -31,14 +31,14 @@
     <div class="wrap header-inner">
       <a class="brand" href="{{ '/' | relative_url }}">{{ site.name }}</a>
       <nav class="site-nav" aria-label="Sections">
-        <a href="#about">About</a>
-        <a href="#research-impact">Research Impact</a>
-        <a href="#publications">Publications</a>
-        <a href="#working-papers">Working Papers</a>
+        <a href="{{ '/' | relative_url }}#about">About</a>
+        <a href="{{ '/' | relative_url }}#research-impact">Research Impact</a>
+        <a href="{{ '/' | relative_url }}#publications">Publications</a>
+        <a href="{{ '/' | relative_url }}#working-papers">Working Papers</a>
         <a href="{{ '/map/' | relative_url }}">Map</a>
-        <a href="#teaching">Teaching</a>
-        <a href="#cv">CV</a>
-        <a href="#contacts">Contacts</a>
+        <a href="{{ '/' | relative_url }}#teaching">Teaching</a>
+        <a href="{{ '/' | relative_url }}#cv">CV</a>
+        <a href="{{ '/' | relative_url }}#contacts">Contacts</a>
       </nav>
       <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
         <span class="theme-toggle__icon" aria-hidden="true"></span>
@@ -46,26 +46,7 @@
     </div>
   </header>
 
-  <section class="hero" id="about">
-    <div class="wrap hero-inner">
-      <div class="hero-photo">
-        <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Portrait of {{ site.name }}">
-      </div>
-      <div class="hero-text">
-        <p class="hero-eyebrow">{{ site.tagline }}</p>
-        <h1 class="hero-name">{{ site.name }}</h1>
-        <div class="hero-bio">
-          {{ site.description | markdownify }}
-        </div>
-        <div class="hero-actions">
-          <a class="btn btn-primary" href="{{ '/CV_Stefano_Ninfole.pdf' | relative_url }}" target="_blank" download>Download CV</a>
-          <a class="btn btn-ghost" href="mailto:{{ site.email }}">Email me</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <main id="main" class="wrap">
+  <main id="main" class="wrap page-main">
     {{ content }}
   </main>
 
@@ -87,18 +68,6 @@
           document.documentElement.setAttribute('data-theme', next);
           try { localStorage.setItem('theme', next); } catch (e) {}
         });
-      }
-
-      /* Gentle scroll-reveal for sections (skipped if user prefers reduced motion) */
-      if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches && 'IntersectionObserver' in window) {
-        var cards = document.querySelectorAll('.card');
-        cards.forEach(function (el) { el.classList.add('reveal'); });
-        var io = new IntersectionObserver(function (entries) {
-          entries.forEach(function (e) {
-            if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); }
-          });
-        }, { threshold: 0.06 });
-        cards.forEach(function (el) { io.observe(el); });
       }
     })();
   </script>
