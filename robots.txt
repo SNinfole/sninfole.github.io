@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sninfole.github.io/sitemap.xml

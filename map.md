@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Interactive map — Stefano Ninfole"
+description: "Interactive map of industrial plants in Germany and their cost-minimizing abatement technology, from the working paper on residual emissions and hard-to-abate industries."
 permalink: /map/
 ---
 

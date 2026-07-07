@@ -10,7 +10,18 @@ The IPCC and the IEA have shown that reaching climate targets will require captu
 
 In [Competition for Carbon Storage](https://www.sciencedirect.com/science/article/abs/pii/S0095069625000129), published in the *Journal of Environmental Economics and Management*, we offer an explanation for why CCS investment has been so slow: coordination and uncertainty. Polluting plants do not know whether a market for storage will be realized, so they hesitate between investing in capture and simply paying for the CO2 they emit. Storage operators, in turn, do not know whether emitters will invest in capture, or to which storage site they will deliver their CO2. The paper disentangles this mechanism and shows market outcomes, profits, investments and costs for the CO2 storage market under different carbon prices. This work is part of a [research project on developing value chains for CO2 storage and blue hydrogen in Europe](https://nva.sikt.no/projects/2718275), where understanding these links in the chain is the central task.
 
-What determines whether decarbonization technologies actually reach the world is part of my broader research agenda: how large-scale, energy-intensive carbon dioxide removal (CDR) technologies would reshape electricity markets, [how the cost of residual emissions steers the abatement choices of steel, cement and chemicals](/map/), and what three decades of data reveal about the drivers of Norway's falling CO2 emissions.
+What determines whether decarbonization technologies actually reach the world is part of my broader research agenda: how large-scale, energy-intensive carbon dioxide removal (CDR) technologies would reshape electricity markets and what three decades of data reveal about the drivers of Norway’s falling CO2 emissions. Me and my co-authors looked also at [how the cost of residual emissions steers the abatement choices of steel, cement and chemicals](/map/), shown in the interactive map below:
+
+<div class="map-frame">
+  <iframe src="/assets/map/plants-map.html"
+          title="Map of German industrial plants and their chosen abatement technology"
+          loading="lazy"></iframe>
+</div>
+
+<aside class="map-disclaimer">
+  <p><strong>A note on the cost figures.</strong> The costs shown here are not the actual costs of the firms displayed — real cost structures are proprietary and not publicly known, and no claim is made about any individual firm's costs. All figures are indicative estimates: cost projections for decarbonization technologies, taken from the techno-economic literature and applied to industrial plants in Germany. They show what abatement would cost <em>if</em> these estimated production costs applied — not what any firm actually pays.</p>
+  <p>The estimates include the cost of residual emissions: every technology leaves some CO2 unabated, and the central question of the map is how much a plant would spend paying the carbon price for that non-abated CO2 under each technology.</p>
+</aside>
 </section>
 
 <section id="publications" class="card" markdown="1">

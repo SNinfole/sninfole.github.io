@@ -400,6 +400,10 @@ main { padding: 0 0 40px; }
   color: var(--text-muted);
   font-size: .85rem;
 }
+/* Map embedded in a homepage card: note sits below the map */
+.card .map-frame { margin: 6px 0 20px; }
+.card .map-frame iframe { height: min(64vh, 620px); }
+.card .map-disclaimer { margin-bottom: 0; }
 
 /* ---------- Scroll reveal ---------- */
 .reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }

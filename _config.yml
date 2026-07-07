@@ -7,6 +7,15 @@ name: "Stefano Ninfole"
 email: "stefano.ninfole@nmbu.no"
 tagline: "PhD researcher in Economics"
 
+url: "https://sninfole.github.io"
+lang: en
+author:
+  name: "Stefano Ninfole"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 markdown: kramdown
 exclude:
   - "BUONAI_web copia.jpg"
